@@ -1,4 +1,4 @@
-package com.ssp.pattern;
+package com.ssp.cli.pattern;
 
 public class Device {
     private String name;

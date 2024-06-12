@@ -1,6 +1,4 @@
-package com.ssp;
-
-import com.ssp.cli.CommandExecutor;
+package com.ssp.cli;
 
 public class Main {
     public static void main(String[] args) {
